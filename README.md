@@ -8,9 +8,9 @@
 >You can find the problem statements and descriptions for these solutions by following the provided commands within the c programs or by visiting the Hackerrank website [here](https://www.hackerrank.com/challenges). Simply search for the program name to access the detailed problem statement.
 
 ---
-### Diagonal Difference
+### Apple and orange
 
-- [Solution](./python/DiagonalDifference.py)
+- [Solution](c/Apple and Orange.c)
 
 ### - Explanation:
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Extra Long Factorials
+### 
 
 - [Solution](./python/ExtraLongFactorials.py)
 
