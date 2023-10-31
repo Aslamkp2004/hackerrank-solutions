@@ -14,19 +14,13 @@
 
 ### - Explanation:
 
-        1. primary_diagonal_sum and secondary_diagonal_sum are initialized to 0 to store the sums of the primary and secondary diagonals, respectively.
-
-        2. The function iterates through the rows of the matrix. For each row i, it adds the element at position (i, i) (primary diagonal) to primary_diagonal_sum and the element at position (i, len(arr) - 1 - i) (secondary diagonal) to secondary_diagonal_sum.
-
-        3. After iterating through the matrix, the function calculates the absolute difference between primary_diagonal_sum and secondary_diagonal_sum.
-
-        4. The absolute difference is returned as the result, representing the diagonal difference of the input matrix.
+     
 
 ---
 
-### 
+### c/Birthday Cake Candles
 
-- [Solution](./python/ExtraLongFactorials.py)
+- [Solution](c/Birthday Cake Candles.c)
 
 ### - Explanation:
 
@@ -39,9 +33,9 @@
         4. Print the calculated factorial using the print function.
 ---
 
-### The Full Counting Sort
+### c/CamelCase
 
-- [Solution](./python/The%20FullCountingSort.py)
+- [Solution](c/CamelCase.c)
 
 ### - Explanation:
 
@@ -58,9 +52,9 @@
         6. Print the sorted result as a space-separated string.
 ---
 
-### Apple and Orange
+### c/Compare the Triplets
 
-- [Solution](./python/AppleandOrange.py)
+- [Solution](c/Compare the Triplets.c)
 
 ### - Explanation:
 
@@ -77,9 +71,9 @@
 
 ---
 
-### Between Two Sets
+### c/Grading Students
 
-- [Solution](./python/BetweenTwoSets.py)
+- [Solution](c/Grading Students.c)
 
 ### - Explanation:
 
@@ -97,9 +91,9 @@
 
 ---
 
-### Grading Students
+### c/Mini-Max Sum
 
-- [Solution](./python/GradingStudents.py)
+- [Solution](c/Mini-Max Sum.c)
 
 ### - Explanation:
 
@@ -115,9 +109,9 @@
 
 ---
 
-### Electronics Shop
+### c/Number Line Jumps
 
-- [Solution](./python/ElectronicsShop.py)
+- [Solution](c/Number Line Jumps.c)
 
 ### - Explanation:
 
@@ -136,9 +130,9 @@
 
 ---
 
-### Viral Advertising
+### c/Plus Minus
 
-- [Solution](./python/ViralAdvertising.py)
+- [Solution](c/Plus Minus.c)
 
 ### - Explanation:
 
@@ -159,9 +153,9 @@
 
 ---
 
-### Minimum Distances
+### c/Staircase
 
-- [Solution](./python/MinimumDistances.py)
+- [Solution](c/Staircase.c)
 
 ### - Explanation:
 
@@ -179,9 +173,9 @@
 
 ---
 
-### Service Lane
+### c/Time Conversion
 
-- [Solution](./python/ServiceLane.py)
+- [Solution](c/Time Conversion.c)
 
 ### - Explanation:
 
