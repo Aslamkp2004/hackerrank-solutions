@@ -10,7 +10,7 @@
 ---
 ### Apple and orange
 
-- [Solution](c/Apple and Orange.c)
+- [Solution](c/Apple%20and%20Orange.c)
 
 ### - Explanation:
     
@@ -38,7 +38,7 @@
 
 ### c/Birthday Cake Candles
 
-- [Solution](c/Birthday Cake Candles.c)
+- [Solution](c/Birthday%20Cake%20Candles.c)
 
 ### - Explanation:
 
@@ -89,7 +89,7 @@
 
 ### c/Compare the Triplets
 
-- [Solution](c/Compare the Triplets.c)
+- [Solution](c/Compare%20the%20Triplets.c)
 
 ### - Explanation:
 
@@ -119,7 +119,7 @@
 
 ### c/Grading Students
 
-- [Solution](c/Grading Students.c)
+- [Solution](c/Grading%20Students.c)
 
 ### - Explanation:
      1 Grading Students:
@@ -147,7 +147,7 @@
 
 ### c/Mini-Max Sum
 
-- [Solution](c/Mini-Max Sum.c)
+- [Solution](c/Mini-Max%20Sum.c)
 
 ### - Explanation:
      1 Mini-Max Sum Calculation:
@@ -174,7 +174,7 @@
 
 ### c/Number Line Jumps
 
-- [Solution](c/Number Line Jumps.c)
+- [Solution](c/Number%20Line%20Jumps.c)
 
 ### - Explanation:
 
@@ -203,7 +203,7 @@
 
 ### c/Plus Minus
 
-- [Solution](c/Plus Minus.c)
+- [Solution](c/Plus%20Minus.c)
 
 ### - Explanation:
 
@@ -262,7 +262,7 @@
 
 ### c/Time Conversion
 
-- [Solution](c/Time Conversion.c)
+- [Solution](c/Time%20Conversion.c)
 
 ### - Explanation:
 
